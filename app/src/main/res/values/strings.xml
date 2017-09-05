@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Udacity Baking App</string>
+    <string name="recipes_retrieve_error">Unable to get recipes</string>
+    <string name="servings">Servings</string>
+    <string name="ingredient_quantity_text">%1$s %2$s</string>
+    <string name="widget_no_recipe">No recipe selected</string>
+    <string name="add_to_widget">Add to widget</string>
+    <string name="recipe_title_placeholder">Your work is going to fill a large part of your life,
+        and the only way to be truly satisfied is to do what you believe is great work. And the
+        only way to do great work is to love what you do. If you have not found it yet, keep looking.
+        Do not settle. As with all matters of the heart, you will know when you find it.</string>
+</resources>
